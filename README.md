@@ -48,9 +48,10 @@ A high-performance, terminal-based cloud storage simulation engineered entirely 
 
 ---
 
-### 👨‍💻 THE CREATOR
+## 👨‍💻 THE CREATOR
 
 | ABDULLAH ASIF |
 | :---: |
-| Full-Stack / Systems Developer |
-| [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-asif-bhatti/) [![GitHub](https://img.shields.io/badge/GITHUB-%23100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDULLAH-ASIF11) |
+| React / Front-End Developer | AI/ML Engineer
+| [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-asif-bhatti/) [![GitHub](https://img.shields.io/badge/GITHUB-%23100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ABDULLAH-ASIF11) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abdullah-Asif11/) |
